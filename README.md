@@ -1,7 +1,8 @@
 # Programas en Python de la materia de Computacion Aplicada
 
-Nombre : Daniel Mauricio Matias Garcia
-Correo: maomatias1011@gmail.com
+- Nombre : Daniel Mauricio Matias 
+Garcia
+- Correo: maomatias1011@gmail.com
 
 ## Actividad 1 
 - Programa 1
@@ -12,3 +13,6 @@ Correo: maomatias1011@gmail.com
 - Programa 4
 - Programa 5
 - Programa 6
+
+## Actividad 3
+- Programa 7
