@@ -5,16 +5,7 @@ Garcia
 - Correo: maomatias1011@gmail.com
 
 ## Actividad 1 
-- Programa 1
-- Programa 2
-- Programa 3
-
-## Actividad 2
-- Programa 4
-- Programa 5
-- Programa 6
-
-## Actividad 3
-- Programa 7
-
-
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
