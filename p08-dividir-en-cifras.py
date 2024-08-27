@@ -1,12 +1,17 @@
-# Dividir en cifras un numero entero
+# Divide un numero entero de 3 cifras en Centenas, Decenas, Unidades
 
-import math 
+import os
 
-print("Dividir en unidades, decenas y centenas un numero entero")
-numero = int(input("Dame un número de 3 cifras "))
+os.system("cls")
 
-centenas = math.trunc( numero / 100)
-decenas = math.trunc( (numero-centenas * 100) / 10)
-unidades = numero - (centenas * 100 + decenas * 10)
+print("Divide un numero entero de 3 cifras en Centenas, Decenas, Unidades")
+n = int(input("Dame un número entero de 3 cifras ? "))
 
-print(f"centenas: {centenas}, decenas: {decenas}, unidades: {unidades} ")
+c = n // 100
+d = ( n - ( c * 100 ) ) // 10
+u = ( n -(c * 100 + d * 10 ))
+
+print("El numero original es ", n)
+print("Centenas : ", c)
+print("Decenas  : ", d)
+print("Unidades : ", u)
