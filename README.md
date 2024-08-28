@@ -25,3 +25,10 @@ Garcia
 - p12-volumen-cilindro
 - p13-calculo-tiempo
 - p14-numero-suerte
+
+## Actividad 4
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperaturas
+- p17-convertir-temperaturas-v2
+- p18-paga-trabajador-v2
