@@ -22,6 +22,6 @@ Garcia
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
 - p11-convertir-temperatura
-- p012-volumen-cilindro
-- p013-calculo-tiempo
-- p014-numero-suerte
+- p12-volumen-cilindro
+- p13-calculo-tiempo
+- p14-numero-suerte
