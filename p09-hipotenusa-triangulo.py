@@ -12,4 +12,4 @@ longlado2 = float(input("Dame la longitud del segundo lado del triangulo "))
 
 hipotenusa = mt.sqrt( ( longlado1 * longlado1 ) + ( longlado2 * longlado2 ) )
 
-print(f"La longitud de la hipotenusa del triangulo es: {hipotenusa:.3f}")
+print(f"\nLa longitud de la hipotenusa del triangulo es: {hipotenusa:.3f}")

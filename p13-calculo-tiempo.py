@@ -9,11 +9,10 @@ print("Calcula el tiempo en dias, minutos y segundos\n")
 
 horas = float(input("Dame el total de horas "))
 
-d = horas // 24
-res = horas % 24
+d = horas / 24
 m = horas * 60
 s = m * 60
 
-print(f"Dias: {d} con {res} Horas restantes")
-print("Minutos: ", m)
-print("Segundos: ",s)
+print(f"Dias: {d:.3f}")
+print(f"Minutos: {m:,.3f}")
+print(f"Segundos: {s:,.3f}")

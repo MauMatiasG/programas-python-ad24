@@ -11,4 +11,4 @@ celcius = float(input("Dame la temperatura en grados Celcius "))
 
 farenheit = ( ( celcius * ( 9/5 ) ) + 32 )
 
-print(f"La temperatura en grados Farenheit es : {farenheit}")
+print(f"\nLa temperatura en grados Farenheit es: {farenheit}")

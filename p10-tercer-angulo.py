@@ -12,4 +12,4 @@ angulo2 = float(input("Dame el segundo angulo "))
 
 angulo3 = 180 - (angulo1 + angulo2)
 
-print("El 3er Angulo es : ", angulo3)
+print("\nEl 3er Angulo es : ", angulo3)
