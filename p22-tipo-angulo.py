@@ -3,21 +3,23 @@
 
 import os; os.system("cls")
 
-print("Mostrando el tipo de angulo en base a los grados")
+print("Mostrando el tipo de angulo en base a su magnitud")
 
 angulo = int(input("Dame el angulo ? "))
 
-print(f"El angulo tiene {angulo} grados por lo tanto es un angulo: ",end="")
-
-if angulo < 90:
-    print("agudo")
-elif angulo == 90:
-    print("recto")
-elif angulo > 90 and angulo < 180:
-    print("obtuso")
-elif angulo == 180:
-    print("llano")
-elif angulo > 180 and angulo < 360:
-    print("concavo")
+print(f"El angulo tiene {angulo} grados, entonces es: ",end="")
+if angulo >= 0 and angulo <= 360:
+    if angulo < 90:
+        print("agudo")
+    elif angulo == 90:
+        print("recto")
+    elif angulo > 90 and angulo < 180:
+        print("obtuso")
+    elif angulo == 180:
+        print("llano")
+    elif angulo > 180 and angulo < 360:
+        print("concavo")
+    else:
+        print("Cerrado o completo")
 else: 
     print("Angulo fuera de rango")

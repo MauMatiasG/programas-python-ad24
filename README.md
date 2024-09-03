@@ -35,8 +35,8 @@ Garcia
 
 ## Actividad 5
 
-- p19-verificar-suma-v2
+- p19-verificar-suma
 - p20-ley-de-newton
 - p21-aceptar-estudiante
-- p21b-aceptar-estudiante
+- p21-aceptar-estudiantev2
 - p22-tipo-angulo
