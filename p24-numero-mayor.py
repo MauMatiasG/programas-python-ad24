@@ -5,7 +5,7 @@ import os; os.system("cls")
 
 print("Verifica el numero mayor")
 
-print("Introduce tres numeros enteros, separados por un enter")
+print("Introduce tres numeros enteros diferentes, separados por un enter")
 n1,n2,n3 = int(input()), int(input()), int(input())
 
 if n1 > n2 and n1 > n3:
