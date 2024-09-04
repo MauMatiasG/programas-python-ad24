@@ -19,6 +19,8 @@ while True:
         elif num < 0 : 
             cn = cn + 1
         else: cc = cc + 1
+else:
+    print("\nYa termine el ciclo while")
 
 print(f"\nCapturaste {c} numeros y su suma es {s}")
 print(f"\nPositivos: {cp}\nNegativos: {cn}\nCeros: {cc}")

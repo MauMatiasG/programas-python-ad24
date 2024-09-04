@@ -9,3 +9,7 @@ while c <= 200:
     if c % 10 != 0:
         continue
     print(c, end=" ") 
+else: 
+    print("\nEl ciclo while ha termiando de manera exitosa")
+
+print("\nPrograma terminado")
