@@ -21,7 +21,7 @@
 - p07b-funciones-del-modulo-math
 - p08-dividir-en-cifras
 
-## Tarea 01
+## Tarea 1
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
 - p11-convertir-temperatura
