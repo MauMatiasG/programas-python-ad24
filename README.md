@@ -4,7 +4,7 @@
 
 - Correo: maomatias1011@gmail.com
 
-## Activida 1 
+## Actividad 1 
 - Liga de repositorio
 
 ## Actividad 2 
