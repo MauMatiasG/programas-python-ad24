@@ -4,6 +4,9 @@
 
 - Correo: maomatias1011@gmail.com
 
+## Activida 1 
+- Liga de repositorio
+
 ## Actividad 2 
 - p01-hola-mundo
 - p02-area-circulo
@@ -59,3 +62,10 @@
 - p31-numeros-1-200-10  
 - p32-numeros-suma-100  
 - p33-conteo-numeros
+
+## Actividad 7
+- p34-tabla-conversion
+- p35-conjetura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
+- p38-adivina-numero
