@@ -20,9 +20,9 @@ while(True):
     p2 = 800 
     p3 = 900
 
-    usuario = int(input("Tipo de usuario: [1] Alumno $100, [2] Trabajador $200, [3] Docente $500 ? "))
-    paquete = int(input("Tipo de paquete: [1] Solo conferencias $600, [2] Con eventos sociales $800, [3] Con kit de acceso $900 ? "))
-    cantidad = int(input("Cantidad ? "))
+    usuario = int(input("\nTipo de usuario\n[1] Alumno $100\n[2] Trabajador $200\n[3] Docente $500\nSeleccione una opcione: "))
+    paquete = int(input("\nTipo de paquete\n[1] Solo conferencias $600\n[2] Con eventos sociales $800\n[3] Con kit de acceso $900\nSeleccione una opcion: "))
+    cantidad = int(input("\nCantidad ? "))
 
     if usuario == 1 and paquete == 1:
         des = 0.20
