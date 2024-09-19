@@ -15,4 +15,6 @@ print(f"\nLa base {base} elevado a la {exp} es {p}")
 p = 1
 for _ in range(exp):
     p = p * base 
+else: 
+    print("\nEl ciclo termino correctamente")
 print(f"\nLa base {base} elevado a la {exp} es {p}")
