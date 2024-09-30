@@ -115,3 +115,10 @@
 - p66–agregar-lista
 - p67–remover-lista
 - p68–iterar-lista
+
+## Actividad 11
+- p65-procesar-calificaciones
+- p66-sumar-listas
+- p67-dia-paga
+- p68-nombres-edades
+- p69-listas-aleatorios
