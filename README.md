@@ -117,8 +117,8 @@
 - p68–iterar-lista
 
 ## Actividad 11
-- p65-procesar-calificaciones
-- p66-sumar-listas
-- p67-dia-paga
-- p68-nombres-edades
-- p69-listas-aleatorios
+- p69-procesar-calificaciones
+- p70-sumar-listas
+- p71-dia-paga
+- p72-nombres-edades
+- p73-listas-aleatorios
