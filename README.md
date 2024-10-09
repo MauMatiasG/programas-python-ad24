@@ -144,3 +144,11 @@
 - p87-lista-dic-estudiante
 - p88-cliente-productos
 - p89-area-figuras
+
+## Tarea 6
+- p90-crear-acceder-diccionario
+- p91-modificar-diccionario
+- p92-agregar-diccionario
+- p93-eliminar-diccionario
+- p94-procesar-diccionario
+- p95-contar-caracteres

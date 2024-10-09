@@ -16,7 +16,7 @@ print("El estudiante ", estudiante, len(estudiante))
 
 print("\nLlaves ", estudiante.keys())
 for k in estudiante.keys():
-    print(k, end="")
+    print(k, end=" ")
 
 print("\nValores ", estudiante.values())
 for v in estudiante.values():
