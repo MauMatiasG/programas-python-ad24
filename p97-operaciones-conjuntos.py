@@ -9,7 +9,7 @@ c4 = {3,4,5}
 
 print(c1, c2, c3, c4)
 
-print("\nUnicon:")
+print("\nUnion:")
 print("c1 union c2 ", c1.union(c2))
 print("c1 union c3 ", c1 | c3)
 
