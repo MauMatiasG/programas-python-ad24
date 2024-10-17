@@ -43,8 +43,8 @@ for cl in empleados:
     print(f"{nm:<13} {edad:<13} {sex:<10} {sueldo:<12,.3f} {pasat}")
 print()
 
-numh = sum(1 for e in empleados if e['Sexo'] == 'h')
 numm = sum(1 for e in empleados if e['Sexo'] == 'm')
+numh = sum(1 for e in empleados if e['Sexo'] == 'h')
 
 pasatc = {}
 for empleado in empleados:
@@ -67,9 +67,9 @@ for empleado in empleados:
 
 print("Resumen:")
 print("Empleados :", len(empleados))
-print("Mujeres   :", numh)
-print("Hombres   :", numm)
-print("Pasatiempos:", ', '.join(f"{p}/{c}" for p, c in pasatc.items()))
+print("Mujeres   :", numm)
+print("Hombres   :", numh)
+print("Pasatiempos:", ', '.join(f"{k}/{v}" for k, v in pasatc.items()))
 print(f"Edad -> suma: {Sedades}, Promedio: {promedio_edades:.1f}")
 print(f"Sueldo -> suma: {Ssueldos:,.2f}, promedio: {promedio_sueldos:,.2f}")
 print(f"{maxedad['Nombre']} de {maxedad['Edad']} es el mayor, {minedad['Nombre']} de {minedad['Edad']} es el menor.")
