@@ -4,16 +4,16 @@
 
 - Correo: maomatias1011@gmail.com
 
-## Actividad 1 
-- Liga de repositorio
+## Actividad 1 - Liga de repositorio
+- https://github.com/MauMatiasG/programas-python-ad24
 
-## Actividad 2 - Elementos basicos parte 1
+## Actividad 2 - Elementos basicos - Parte 1
 - p01-hola-mundo
 - p02-area-circulo
 - p03-area-triangulo
 - p04-paga-trabajador
 
-## Actividad 3 - Elementos basicos parte 2
+## Actividad 3 - Elementos basicos - Parte 2
 - p05-promedio-de-calificaciones
 - p06-operaciones-matematicas
 - p06b-operadores-de-asignacion
@@ -29,14 +29,14 @@
 - p13-calculo-tiempo
 - p14-numero-suerte
 
-## Actividad 4 - Ejecución condicional - parte 1
+## Actividad 4 - Ejecución condicional -  Parte 1
 - p15-verificar-numero
 - p16-verificar-suma
 - p17-convertir-temperaturas
 - p17-convertir-temperaturas-v2
 - p18-paga-trabajador-v2
 
-## Actividad 5 - Ejecución condicional - parte 2
+## Actividad 5 - Ejecución condicional - Parte 2
 - p19-verificar-suma
 - p20-ley-de-newton
 - p21-aceptar-estudiante
@@ -51,7 +51,7 @@
 - p27-calculo-de-notas
 - p28-aceptar-estudiante-v2
 
-## Actividad 6 - Ejecución repetitiva parte 1
+## Actividad 6 - Ejecución repetitiva - Parte 1
 - p29-numeros-1-100-v1
 - p29-numeros-1-100-v2
 - p29-numeros-1-100-v3
@@ -62,7 +62,7 @@
 - p32-numeros-suma-100  
 - p33-conteo-numeros
 
-## Actividad 7 - Ejecución repetitiva parte 2
+## Actividad 7 - Ejecución repetitiva - Parte 2
 - p34-tabla-conversion
 - p35-conjetura-collatz
 - p36-tabla-multiplicar
@@ -80,7 +80,7 @@
 ## Primer examen parcial 
 - p45-primer-examen-parcial
 
-## Actividad 8 - Ejecución repetitiva - parte3
+## Actividad 8 - Ejecución repetitiva - Parte 3
 - p46-numeros-1-100-v1
 - p46-numeros-1-100-v2
 - p46-numeros-1-100-v3
@@ -93,7 +93,7 @@
 - p51-multiplos-suma
 - p52-base-exponente
 
-## Actividad 9 - Ejecución repetitiva - parte 4
+## Actividad 9 - Ejecución repetitiva - Parte 4
 - p53-factorial
 - p54-tabla-multiplicar
 - p55-tablas-multiplicar
@@ -108,14 +108,14 @@
 - p62–secuencia-numeros-2
 - p63-secuencia-terminos-1
 
-## Actividad 10 - Listas Parte 1
+## Actividad 10 - Listas - Parte 1
 - p64–acceder-lista
 - p65–cambiar-lista
 - p66–agregar-lista
 - p67–remover-lista
 - p68–iterar-lista
 
-## Actividad 11 - Listas Parte 2
+## Actividad 11 - Listas - Parte 2
 - p69-procesar-calificaciones
 - p70-sumar-listas
 - p71-dia-paga
