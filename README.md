@@ -173,9 +173,10 @@
 - p107-funcion-retorno
 - p108-tabla-multiplicar
 - p109-cuadro-caracter
-- p110-funcion-mayor
-- p111-estacion-ano
-- p112-suma-digitos
-- p113-factorial
-- p114-calificacion-letra
-- p115-suma-rango
+- p110-numero-mayor
+- p111-estacion-año
+- p112-temperatura
+- p113-suma-digitos
+- p114-factorial
+- p115-calificacion-letra
+- p116-suma-rango
