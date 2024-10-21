@@ -7,13 +7,13 @@
 ## Actividad 1 
 - Liga de repositorio
 
-## Actividad 2 
+## Actividad 2 - Elementos basicos parte 1
 - p01-hola-mundo
 - p02-area-circulo
 - p03-area-triangulo
 - p04-paga-trabajador
 
-## Actividad 3
+## Actividad 3 - Elementos basicos parte 2
 - p05-promedio-de-calificaciones
 - p06-operaciones-matematicas
 - p06b-operadores-de-asignacion
@@ -21,7 +21,7 @@
 - p07b-funciones-del-modulo-math
 - p08-dividir-en-cifras
 
-## Tarea 1
+## Tarea 1 - Elementos basicos
 - p09-hipotenusa-triangulo
 - p10-tercer-angulo
 - p11-convertir-temperatura
@@ -29,22 +29,21 @@
 - p13-calculo-tiempo
 - p14-numero-suerte
 
-## Actividad 4
+## Actividad 4 - Ejecución condicional - parte 1
 - p15-verificar-numero
 - p16-verificar-suma
 - p17-convertir-temperaturas
 - p17-convertir-temperaturas-v2
 - p18-paga-trabajador-v2
 
-## Actividad 5
-
+## Actividad 5 - Ejecución condicional - parte 2
 - p19-verificar-suma
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p21-aceptar-estudiantev2
 - p22-tipo-angulo
 
-## Tarea 2
+## Tarea 2 - Ejecución condicional
 - p23-numeros-consecutivos
 - p24-numero-mayor
 - p25-dia-de-la-semana
@@ -52,7 +51,7 @@
 - p27-calculo-de-notas
 - p28-aceptar-estudiante-v2
 
-## Actividad 6
+## Actividad 6 - Ejecución repetitiva parte 1
 - p29-numeros-1-100-v1
 - p29-numeros-1-100-v2
 - p29-numeros-1-100-v3
@@ -63,14 +62,14 @@
 - p32-numeros-suma-100  
 - p33-conteo-numeros
 
-## Actividad 7
+## Actividad 7 - Ejecución repetitiva parte 2
 - p34-tabla-conversion
 - p35-conjetura-collatz
 - p36-tabla-multiplicar
 - p37-tabla-multiplicar-v2
 - p38-adivina-numero
 
-## Tarea 3
+## Tarea 3 - Ejecución repetitiva
 - p39-impares-ascendente
 - p40-pares-descendente
 - p41-promedio-suma
@@ -78,10 +77,10 @@
 - p43-conversion-temperaturas
 - p44-numero-mayor
 
-## Examen 1
+## Primer examen parcial 
 - p45-primer-examen-parcial
 
-## Actividad 8
+## Actividad 8 - Ejecución repetitiva - parte3
 - p46-numeros-1-100-v1
 - p46-numeros-1-100-v2
 - p46-numeros-1-100-v3
@@ -94,7 +93,7 @@
 - p51-multiplos-suma
 - p52-base-exponente
 
-## Actividad 9
+## Actividad 9 - Ejecución repetitiva - parte 4
 - p53-factorial
 - p54-tabla-multiplicar
 - p55-tablas-multiplicar
@@ -102,28 +101,28 @@
 - p57-factorial-numeros
 - p58-combina-colores
 
-## Tarea 4
+## Tarea 4 - Ciclos for
 - p59-numeros-10-en-10
 - p60-suma-pares-2-n
 - p61-secuencia-numeros-1
 - p62–secuencia-numeros-2
 - p63-secuencia-terminos-1
 
-## Actividad 10 
+## Actividad 10 - Listas Parte 1
 - p64–acceder-lista
 - p65–cambiar-lista
 - p66–agregar-lista
 - p67–remover-lista
 - p68–iterar-lista
 
-## Actividad 11
+## Actividad 11 - Listas Parte 2
 - p69-procesar-calificaciones
 - p70-sumar-listas
 - p71-dia-paga
 - p72-nombres-edades
 - p73-listas-aleatorios
 
-## Tarea 5
+## Tarea 5 - Listas
 - p74-procesar-notas
 - p75-lista-multiplica
 - p76-meses-dia-nombre
@@ -131,21 +130,21 @@
 - p78-ciudades
 - p79-lista-impares
 
-## Actividad 12
+## Actividad 12 - Diccionarios - Parte 1
 - p80-estudiante
 - p81-calificaciones
 - p82-nombres-edades
 - p83-conversion-medida
 - p84-conversion-moneda
 
-## Actividad 13
+## Actividad 13 Diccionarios - Parte 2
 - p85-procesar-pizza
 - p86-lista-dic-auto
 - p87-lista-dic-estudiante
 - p88-cliente-productos
 - p89-area-figuras
 
-## Tarea 6
+## Tarea 6 - Diccionarios
 - p90-crear-acceder-diccionario
 - p91-modificar-diccionario
 - p92-agregar-diccionario
@@ -153,13 +152,30 @@
 - p94-procesar-diccionario
 - p95-contar-caracteres
 
-## Actividad 14
+## Actividad 14 - Conjuntos
 - p96-trabajando-conjuntos
 - p97-operaciones-conjuntos
 
-## Tarea 7
+## Tarea 7 - Conjuntos
 - p98-personas
 - p99-numero
 
-# Examen 2
+# Segundo examen parcial
 - p100–segundo-examen-parcial
+
+## Actividad 15 - Funciones - Parte 1
+- p101-funcion
+- p102-funcion-parametro
+- p103-funcion-parametros
+- p104-funcion-mas-parametros
+- p105-funcion-parametros-nombre
+- p106-funcion-parametros-por-defecto
+- p107-funcion-retorno
+- p108-tabla-multiplicar
+- p109-cuadro-caracter
+- p110-funcion-mayor
+- p111-estacion-ano
+- p112-suma-digitos
+- p113-factorial
+- p114-calificacion-letra
+- p115-suma-rango
