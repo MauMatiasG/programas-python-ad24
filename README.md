@@ -210,3 +210,9 @@
 
 ## Tarea 9 – POO – Parte 1
 - p138-articulo
+
+## Actividad 18 Prog Orientada a Objetos - Parte 2
+- p139-ventas
+
+## Tercer examen parcial
+- p140-tecer-examen-parcial
